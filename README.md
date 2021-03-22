@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @phonixer
 - 👀 I’m interested in basketball, LOL, badminton.
 - 🌱 I’m currently learning python, C++, DQN, DeepLearning.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on software development.
 - 📫 How to reach me ...
 
 <!---

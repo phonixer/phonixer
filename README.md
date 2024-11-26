@@ -8,9 +8,9 @@
 phonixer/phonixer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<!---
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=phonixer&count_private=true&show_icons=true&count_private=true&sanitize=true" height="200px" alt="" />&ensp;&ensp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phonixer&layout=donut&count_private=true" height="200px" alt="" />
 </p>
-
+--->
 

@@ -9,9 +9,6 @@ phonixer/phonixer is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Visitor Count](https://profile-counter.glitch.me/phonixer/count.svg)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phonixer&layout=compact&theme=tokyonight)
 
 
 

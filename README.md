@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phonixer
 - 👀 I’m interested in basketball, LOL, badminton.
-- 🌱 I’m currently learning python, C++, DQN, DeepLearning.
+- 🌱 I’m currently learning Diffusion Decision.
 - 💞️ I’m looking to collaborate on software development.
 - 📫 [WebSite ](https://phonixer.github.io/ruiguo_website/)
 

@@ -45,6 +45,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 
 
+【reminder myself】
+![image](https://github.com/user-attachments/assets/235e0932-f841-44ed-9dd4-6eaecd943e0c)
+
 
 
 
